@@ -1,6 +1,3 @@
-Here's a well-structured **README** for your Java-based Web Crawler project, ensuring clarity and engagement! 🚀  
-
----
 
 # 🌐 Java Web Crawler – Search Bot 🔍  
 
